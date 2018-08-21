@@ -1,2 +1,2 @@
 # trajectoware
-TrajectoWare web apps, starting with Drive. Just experiments and prototypes so far.
+TrajectoWare web apps, starting with Drive.
